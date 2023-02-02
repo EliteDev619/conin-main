@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629020822587",
+    "project_id": "inventory-b744d",
+    "storage_bucket": "inventory-b744d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629020822587:android:6973314dda6a69df83201e",
+        "android_client_info": {
+          "package_name": "com.tech.coinnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629020822587-2vn8shjl0i9lj4k8jops3rl63gru1b2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADq4cmSgLkwXFGRuMdgpwcrQ_bjuK_WiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629020822587-2vn8shjl0i9lj4k8jops3rl63gru1b2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
